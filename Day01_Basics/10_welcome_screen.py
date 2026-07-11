@@ -1,0 +1,8 @@
+print("*** WELCOME TO SKILL DEVELOPMENT ***")
+print("          | July Process |")
+print(" * Python")
+print(" * Spoken English")
+print(" * Github profile develop")
+print("           Week 1!       ")
+print("--- A goal without action is just a wish. ---")
+print("      Come On!! Let's Go!   ")

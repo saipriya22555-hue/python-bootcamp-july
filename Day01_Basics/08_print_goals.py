@@ -1,0 +1,1 @@
+print("My goals are:\nBuild a strong and muscular body.\nLearn AI and become an AI Engineer.\nImprove my spoken English to communicate confidently at work place.\nPerform well in my college studies.")
