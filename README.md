@@ -10,6 +10,8 @@ This repository contains my Python learning journey.
 ✅ Day 4 - If & Else
 ✅ Day 5 - Elif & Nested If
 ✅ Day 6 - mini project
+✅ Day 7 - week 1 assessment
+✅ Day 8 - for loop basics
 
 Created by:
 Sai Priya
