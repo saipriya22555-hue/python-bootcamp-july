@@ -12,6 +12,9 @@ This repository contains my Python learning journey.
 ✅ Day 6 - mini project
 ✅ Day 7 - week 1 assessment
 ✅ Day 8 - for loop basics
+✅ Day 9 - for loop
+✅ Day 10- while loop
+✅ Day 11- nestes loop
 
 Created by:
 Sai Priya
