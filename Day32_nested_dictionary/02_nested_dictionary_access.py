@@ -1,0 +1,11 @@
+computer_science={
+    "student_1":{
+        "name":"sai",
+        "mark":98
+        },
+    "student_2":{
+        "name":"bena",
+        "mark":100
+        },
+}
+print(computer_science["student_1"]["mark"])
